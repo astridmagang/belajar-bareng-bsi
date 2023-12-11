@@ -1,0 +1,16 @@
+﻿{
+  "profiles":
+  {
+    "Zeta.BelajarBarengBSI.WebApi":
+    {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:44321",
+      "environmentVariables":
+      {
+        "ASPNETCORE_ENVIRONMENT": "Local"
+      }
+    }
+  }
+}
